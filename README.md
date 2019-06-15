@@ -1,2 +1,4 @@
 # hello_word
-just a learning repository
+hi humans 
+
+i like nodes and p
